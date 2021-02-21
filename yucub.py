@@ -54,7 +54,7 @@ def main():
     res[reso].download(r'/sdcard/ytdownload')
     print(f'{あかい}\n\t\t[!]Finish Download\n{あおい}')
     print('Check our download on /sdcard/ytdownload')
-    print('Except:\n\tfor change to music, Change the extension file to .webm and play on GooglePlayMusic\n\tGBRAND-TrapSad.webm ==> GBRAND-TrapSad.mp3')
+    print('Except:\n\tfor change to music, Change the extension file to .mp3 and play on GooglePlayMusic\n\tGBRAND-TrapSad.webm ==> GBRAND-TrapSad.mp3')
 
 if __name__== "__main__":
     print(banner)
